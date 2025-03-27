@@ -1,0 +1,11 @@
+include dash_webrtc/dash_webrtc.min.js
+include dash_webrtc/dash_webrtc.min.js.map
+include dash_webrtc/async-*.js
+include dash_webrtc/async-*.js.map
+include dash_webrtc/*-shared.js
+include dash_webrtc/*-shared.js.map
+include dash_webrtc/metadata.json
+include dash_webrtc/package-info.json
+include README.md
+include LICENSE
+include package.json
